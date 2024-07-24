@@ -1,3 +1,8 @@
+/* Create project */
 npm create vite@latest
 npm install
 npm run dev
+
+/* Git */
+https://www.freecodecamp.org/news/introduction-to-git-and-github/
+
